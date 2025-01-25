@@ -8,9 +8,13 @@ dgl --1.1.2+ <br>
 rdkit <br>
 
 ## data process
-### full_data.pkl : [Drugbank ID, Uniprot ID, label]
-### drug_smi_raw.pkl : {Drugbank ID: SMILES}
-### prot_seq_raw.pkl : {Uniprot ID: AAs}
-### drug_graph.ipynb --create drug graph representation: {Drugbank ID: DGLgraph}
-### protein_sequence.ipynb --create protein sequence representation: {Uniprot ID: vectors}
-### protein_graph.ipynb --create protein graph representation: {Uniprot ID: DGLgraph}
+full_data.pkl    : [Drugbank ID, Uniprot ID, label] <br>
+drug_smi_raw.pkl : {Drugbank ID: SMILES} <br>
+prot_seq_raw.pkl : {Uniprot ID: AAs} <br>
+ <br>
+drug_graph.ipynb       --create drug graph representation: {Drugbank ID: DGLgraph} <br>
+protein_sequence.ipynb --create protein sequence representation: {Uniprot ID: vectors} <br>
+protein_graph.ipynb    --create protein graph representation: {Uniprot ID: DGLgraph} <br>
+
+## run
+main.py
