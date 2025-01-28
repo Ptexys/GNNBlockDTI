@@ -5,8 +5,8 @@
 - `torch --2.0.0+` <br>
 - `dgl --1.1.2+` <br>
 - `rdkit` <br>
-- `esm`: [esm](https://github.com/facebookresearch/esm)  <br>
-- `protbert`: [prot-bert](https://github.com/agemagician/ProtTrans)  <br>
+- `esm`: [https://github.com/facebookresearch/esm](https://github.com/facebookresearch/esm)  <br>
+- `protbert`: [https://github.com/agemagician/ProtTrans](https://github.com/agemagician/ProtTrans)  <br>
 
 ## Data preprocessing
 - Run `python data_process.py`
