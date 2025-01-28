@@ -2,9 +2,9 @@
 ![GNNBlockDTI](https://github.com/Ptexys/GNNBlockDTI/blob/main/GNNBlockDTI.jpg)
 
 ### Requirement
-torch --2.0.0+ <br>
-dgl --1.1.2+ <br>
-rdkit <br>
+- `torch --2.0.0+` <br>
+- `dgl --1.1.2+` <br>
+- `rdkit` <br>
 
 ## Data preprocessing
 - Run `python data_process.py`
